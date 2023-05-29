@@ -1,2 +1,2 @@
 # phdhongkong.github.io
-Robot X
+Learn and learn harder
